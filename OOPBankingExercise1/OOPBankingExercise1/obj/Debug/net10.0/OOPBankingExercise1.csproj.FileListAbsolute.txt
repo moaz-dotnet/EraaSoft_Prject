@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\bin\Debug\net10.0\OOPBankingExercise1.exe
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\bin\Debug\net10.0\OOPBankingExercise1.deps.json
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\bin\Debug\net10.0\OOPBankingExercise1.runtimeconfig.json
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\bin\Debug\net10.0\OOPBankingExercise1.dll
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\bin\Debug\net10.0\OOPBankingExercise1.pdb
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\OOPBankingExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\OOPBankingExercise1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\OOPBankingExercise1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\OOPBankingExercise1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\OOPBankingExercise1.dll
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\refint\OOPBankingExercise1.dll
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\OOPBankingExercise1.pdb
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\OOPBankingExercise1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\OOPBankingExercise1\OOPBankingExercise1\obj\Debug\net10.0\ref\OOPBankingExercise1.dll
